@@ -1,0 +1,2 @@
+# template
+store, login, daftar
